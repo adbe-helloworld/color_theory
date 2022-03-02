@@ -1,2 +1,3 @@
 # color_theory
-testing repo
+
+Super simple repo.
